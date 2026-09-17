@@ -1,0 +1,14 @@
+# Learn Faster to Win
+
+> Learn Faster to Win is the product-management practice of Stefan Wesemann (WMNN Outcomes B.V., Amsterdam) for product leaders at tech-enabled companies. The Learn Faster to Win Loop closes the distance between deciding and knowing in four sectors, Investigate, Curate, Validate and Iterate, with a written verdict on every bet. Three routes, fixed prices: the LFTW Intensive from EUR 25,000 one-off, the LFTW Partnership from EUR 50,000, the LFTW Program from EUR 10,000 per seat. Not a fit: SaaS and AI-native companies, enterprise, companies that do not build, and companies still looking for their first customers.
+
+## Pages
+
+- [Home](https://learnfastertowin.com/): the transition from built to produce to built to learn, the cost of the old game, the Loop, who it fits, the results, the three routes, Stefan.
+- [Route check](https://learnfastertowin.com/route): six questions, one lap, a verdict on which route fits.
+
+## Legal
+
+- [Privacy statement](https://learnfastertowin.com/privacy)
+- [Terms and conditions](https://learnfastertowin.com/terms)
+- [Cookie statement](https://learnfastertowin.com/cookies)
