@@ -1,0 +1,15 @@
+# Learn Faster to Win
+
+> Learn Faster to Win is the product-management practice of Stefan Wesemann for product leaders at established, tech-enabled businesses. Stefan ran product at Coolblue, Essent and Postcodeloterij and holds PSPO III. Learn Faster to Win works alongside the teams to turn product investment into business results, faster, and takes responsibility for its part in the result. The Learn Faster to Win Loop runs in four sectors: Investigate, Curate, Validate and Iterate. Three routes: the LFTW Program from EUR 15,000 per seat, the LFTW Intensive from EUR 35,000 one-off, the LFTW Partnership from EUR 100,000. Not a fit: businesses still searching for their first product and customers, temporary product vacancies, and requests to endorse a fixed solution.
+
+## Pages
+
+- [Home](https://learnfastertowin.com/): the old game and the new game for product organisations, the price of the old game, the Learn Faster to Win Loop (direction, engine, stack, compound learning), who it fits, the results, the three ways to work together, Stefan.
+- [About, the record](https://learnfastertowin.com/about): the reference for the company (WMNN Outcomes B.V., KvK 98627376, Herengracht 582, Amsterdam) and for Stefan Wesemann, in question form.
+- [Route check](https://learnfastertowin.com/route): six questions, one lap, a verdict on which route fits.
+
+## Legal
+
+- [Privacy statement](https://learnfastertowin.com/privacy)
+- [Terms and conditions](https://learnfastertowin.com/terms)
+- [Cookie statement](https://learnfastertowin.com/cookies)
