@@ -1,0 +1,35 @@
+# Crawl policy: open. Search, AI answers and AI training are allowed (see ../site-profile.yaml,
+# training_policy). /styleguide is crawlable on purpose: it carries noindex, and a crawler can only
+# read a noindex on a page it may fetch. Only the CMS admin and its API are closed.
+
+User-agent: *
+Allow: /
+Disallow: /keystatic
+Disallow: /api/keystatic
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+# Retrieval crawlers: AI search and fetches a person triggers
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+Allow: /
+Disallow: /keystatic
+Disallow: /api/keystatic
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+# Training crawlers
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: CCBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: meta-externalagent
+User-agent: Bytespider
+Allow: /
+Disallow: /keystatic
+Disallow: /api/keystatic
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+Sitemap: https://learnfastertowin.com/sitemap-index.xml

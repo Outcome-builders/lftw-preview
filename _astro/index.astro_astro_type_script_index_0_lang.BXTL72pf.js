@@ -1,0 +1,1 @@
+var e=[...document.querySelectorAll(`.phases [data-phase]`)],t=document.querySelector(`.phases`);document.addEventListener(`lftw:phase`,n=>{let r=n.detail;t?.classList.add(`live`),e.forEach(e=>e.classList.toggle(`active`,Number(e.dataset.phase)===r))});
