@@ -1,0 +1,26 @@
+# Learn Faster To Win
+
+> Learn Faster To Win is the product-management practice of Stefan Wesemann for product leaders at established, tech-enabled businesses. Stefan ran product at Coolblue, Essent and Postcodeloterij and holds PSPO III. Learn Faster To Win works alongside the teams to turn product investment into business results, faster, and takes responsibility for its part in the result. The Learn Faster To Win Loop runs in four phases: Investigate, Curate, Validate and Iterate. Three ways to work together: the LFTW Review from EUR 10,000, the LFTW Team with an installation fee from EUR 35,000 plus EUR 2,500 per month and the LFTW Company with an installation fee from EUR 100,000 plus EUR 7,500 per month, both for managed services, and the Review fee is credited if you continue with either. Not a fit: businesses still searching for their first product and customers, temporary product vacancies, and requests to endorse a fixed solution.
+
+## Pages
+
+- [Home](https://learnfastertowin.com/): the losing game and the winning game for product organisations, the price of the losing game, the Learn Faster To Win Loop (direction, engine, stack, compound learning), who it fits, the results, the three ways to work together, Stefan.
+- [About, the record](https://learnfastertowin.com/about): the reference for the company (WMNN Outcomes B.V., KvK 98627376, Herengracht 582, Amsterdam), in question form.
+- [Stefan Wesemann, the record](https://learnfastertowin.com/stefan-wesemann): the reference for the person: where he has run product, his certification and what he stands for, in question form.
+- [Apply to work together](https://learnfastertowin.com/apply): the fit check, six questions that show whether there is a match and which way of working together fits.
+- [Sitemap](https://learnfastertowin.com/sitemap): every page and every section of the home page in one list.
+
+## In Dutch
+
+The same pages in Dutch, for the clients in the Netherlands, under /nl with the same paths.
+
+- [Home, in Dutch](https://learnfastertowin.com/nl): de homepage in het Nederlands.
+- [About, in Dutch](https://learnfastertowin.com/nl/about): de gegevens van het bedrijf.
+- [Stefan Wesemann, in Dutch](https://learnfastertowin.com/nl/stefan-wesemann): de gegevens van Stefan Wesemann.
+- [Apply to work together, in Dutch](https://learnfastertowin.com/nl/apply): de fit check in zes vragen.
+
+## Legal
+
+- [Privacy statement](https://learnfastertowin.com/privacy)
+- [Terms and conditions](https://learnfastertowin.com/terms)
+- [Cookie statement](https://learnfastertowin.com/cookies)

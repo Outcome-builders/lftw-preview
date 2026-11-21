@@ -1,0 +1,1 @@
+var e=document.querySelector(`[data-tmodel]`);if(e){let t=new IntersectionObserver(n=>{n.some(e=>e.isIntersecting)&&(e.classList.add(`in`),t.disconnect())},{threshold:.25});t.observe(e)}

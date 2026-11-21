@@ -1,0 +1,1 @@
+var e=document.querySelector(`[data-summary]`),t=e?.querySelector(`[data-copy]`),n=e?.querySelector(`[data-summary-text]`)?.innerText?.trim();if(t&&n&&navigator.clipboard){t.hidden=!1;let e=t.textContent;t.addEventListener(`click`,async()=>{await navigator.clipboard.writeText(n),t.textContent=t.dataset.copied??e,window.setTimeout(()=>{t.textContent=e},1600)})}

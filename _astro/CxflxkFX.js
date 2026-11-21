@@ -1,0 +1,1 @@
+var e=document.querySelector(`.prose[data-base]`),t=e?.dataset.base??`/`;e&&t!==`/`&&e.querySelectorAll(`a[href^="/"]`).forEach(e=>{e.setAttribute(`href`,t.replace(/\/$/,``)+e.getAttribute(`href`))});
